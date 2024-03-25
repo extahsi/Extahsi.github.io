@@ -17,3 +17,6 @@
       </script>
     </body>
   </html>
+
+
+<form name="PrePage" method = "post" action = "https://Simplecheckout.authorize.net/payment/CatalogPayment.aspx"> <input type = "hidden" name = "LinkId" value ="b335b74f-72bf-4a67-a445-533ee259cfb9" /> <input type = "image" src ="//content.authorize.net/images/donate-gold.gif" /> </form>
